@@ -1,0 +1,19 @@
+{
+  "name": "nodetrial",
+  "version": "1.0.0",
+  "description": "First Step into node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sberthelotgit/nodetrial.git"
+  },
+  "author": "sberthelot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sberthelotgit/nodetrial/issues"
+  },
+  "homepage": "https://github.com/sberthelotgit/nodetrial#readme"
+}
